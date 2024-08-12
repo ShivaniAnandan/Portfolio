@@ -11,7 +11,7 @@
     "@types/node": "^16.7.13",
     "@types/react": "^17.0.20",
     "@types/react-dom": "^17.0.9",
-    "react": "^17.0.2",
+    "react": "^16.14.0",
     "react-animate-on-scroll": "^2.1.5",
     "react-dom": "^17.0.2",
     "react-google-recaptcha": "^2.1.0",
@@ -29,7 +29,8 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "dev": "npm run start"
   },
   "eslintConfig": {
     "extends": [
